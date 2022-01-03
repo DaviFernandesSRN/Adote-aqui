@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+  }
+    header{
+      width: 100vw;
+      background-color: burlywood;
+      display: flex;
+      flex-grow: 2;
+  }
+  .header{
+      display: flex;
+      padding: 20px;
+  }
+
+  .Adoteaqui {
+
+      color: black;
+      flex-grow: 3;
+      font-weight: bolder;
+
+  }
+  
+  .home{
+      background-color: burlywood;
+      flex-grow: 1;
+      font-weight: bolder;
+      padding: 20px;
+  }
+  .sobre{
+      background-color: burlywood;
+      flex-grow: 1;
+      font-weight: bolder;
+  }
+  .contato{
+    background-color: burlywood;
+    flex-grow: 1;
+    font-weight: bolder;
+  }
+  }
+  span{
+    margin: 10px;  
+  }
+
+h1{
+    padding: 20px;
+text-align: center;
+  }
+  h3{
+text-align: center;
+  }
+
+  #cao1{
+    padding: 20px;
+    width: 20%;
+  }
+  #cao2{
+    padding: 20px;
+    width: 20%;
+  }
+  #cao3{
+    padding: 20px;
+    width: 20%;
+  }
+  #cao4{
+    padding: 20px;
+    width: 20%;
+  }
+  #cao5{
+
+    padding: 20px;
+    width: 17%;
+  }
