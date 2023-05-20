@@ -5,5 +5,6 @@ Pagina HTML simulando um site de adoção de pets e blues.
 
 # tt 
 
-verygood
+uso do comando git restore
 
+comando git push
